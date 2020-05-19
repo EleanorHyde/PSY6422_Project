@@ -17,3 +17,6 @@ The project was written in **R script** using the following packages:
 * data.table
 * dplyr
 
+## MSc Research Project
+This analysis relates to my MSc dissertation: **Action video gamers’ task switching and processing speed abilities: a mixed method investigation**. I may update this github with the experimental data and analysis from my dissertation in the future. For this project, I am supervised by Dr Claudia von Bastian.
+
